@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753073248960",
+    "project_id": "kanji-n5-594fd",
+    "storage_bucket": "kanji-n5-594fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753073248960:android:37989bd7c080e457c0ab25",
+        "android_client_info": {
+          "package_name": "com.asfakur.kanji"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjc87K8yW4m284RIVluNMwZofI9xZaIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753073248960:android:8516b726390417e3c0ab25",
+        "android_client_info": {
+          "package_name": "com.example.kanji_n5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjc87K8yW4m284RIVluNMwZofI9xZaIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
